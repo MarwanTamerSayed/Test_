@@ -4,3 +4,4 @@
 that player wins the game.
 3 ) If all the numbers are used up and no player has achieved the goal of getting exactly 15
 with three numbers, the game ends in a draw.
+^_*
